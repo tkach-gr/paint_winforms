@@ -1,0 +1,7 @@
+D:\Programming\C#\WinForms\WinForms\obj\Debug\WinForms.csprojAssemblyReference.cache
+D:\Programming\C#\WinForms\WinForms\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+D:\Programming\C#\WinForms\WinForms\bin\Debug\WinForms.exe.config
+D:\Programming\C#\WinForms\WinForms\bin\Debug\WinForms.exe
+D:\Programming\C#\WinForms\WinForms\bin\Debug\WinForms.pdb
+D:\Programming\C#\WinForms\WinForms\obj\Debug\WinForms.exe
+D:\Programming\C#\WinForms\WinForms\obj\Debug\WinForms.pdb
